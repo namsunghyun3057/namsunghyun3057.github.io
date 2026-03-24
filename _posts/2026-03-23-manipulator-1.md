@@ -2,7 +2,7 @@
 title: Manipulator Study 1
 date: 2026-03-23 21:52:00 +0900
 categories: [Physical AI, Manipulator]
-tags: [robotics]
+tags: [robotics, manipulator, kinematics]
 ---
 
 # [Manipulator] 돌밭 매니퓰레이터 스터디 1주차  
