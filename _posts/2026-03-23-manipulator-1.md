@@ -24,7 +24,7 @@ tags: [robotics, manipulator, kinematics]
 * **DOF (Degrees of Freedom, 자유도):** 3차원 공간에서 독립적으로 움직일 수 있는 방향의 수. 보통 조인트 모터의 개수와 일치함. 3차원 위치(X,Y,Z)와 자세(3축 회전)를 완벽히 제어하려면 최소 6자유도가 필요함.
 
 <div align="center">
-  <img src="/assets/img/1-1.png" alt="1-1">
+  <img src="/assets/img/1-1.png" alt="1-1" style="width: 80%; max-width: 600px; display: block; margin: 0 auto;">
   <p><em>매니퓰레이터의 Link와 Joint</em></p>
 </div>
 
@@ -35,7 +35,7 @@ tags: [robotics, manipulator, kinematics]
 * **Dexterous Workspace:** 닿은 상태에서 모든 방향으로 자유롭게 자세 전환이 가능한 핵심 영역.
 
 <div align="center">
-  <img src="/assets/img/1-2.png" alt="1-2">
+  <img src="/assets/img/1-2.png" alt="1-2" style="width: 80%; max-width: 600px; display: block; margin: 0 auto;">
   <p><em>매니퓰레이터의 Workspace</em></p>
 </div>
 
@@ -60,7 +60,7 @@ tags: [robotics, manipulator, kinematics]
 * 항공, 모빌리티 등에서 주로 사용하는 **Roll(앞뒤 축), Pitch(좌우 축), Yaw(수직 축)** 회전이 대표적임.
 
 <div align="center">
-  <img src="/assets/img/1-3.png" alt="1-3">
+  <img src="/assets/img/1-3.png" alt="1-3" style="width: 80%; max-width: 600px; display: block; margin: 0 auto;">
   <p><em>Roll, Pitch, Yaw</em></p>
 </div>
 
